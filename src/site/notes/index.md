@@ -1,15 +1,16 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-show-inline-title":false,"dg-show-backlinks":false,"title":"JavaScript Development | Trail Running | Fastpacking","permalink":"/index/","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-28T12:08:34.974+05:30","updated":"2025-04-28T12:10:46.206+05:30"}
+{"dg-home":true,"dg-publish":true,"dg-show-inline-title":false,"dg-show-backlinks":false,"title":"JavaScript Development | Trail Running | Fastpacking","permalink":"/index/","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-28T12:08:34.974+05:30","updated":"2025-04-28T13:03:30.535+05:30"}
 ---
 
 
 
-<div class="hc"><div class="hc__left">
+<div class="hc">
+<div class="hc__left">
 
-**I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]].
+**I'm a Software Developer and Badminton Player located in  Pune, India .** I work with C++,  Javascript and React. Find out more [[Introduction] | About Me].
 
 
-> [!TIP] Currently seeking work
+> [!Note] Currently Working at Arista Network
 > I'm currently seeking work as a JavaScript developer. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
@@ -68,7 +69,7 @@ Here are some recent news articles I found interesting:
 
 *The 📘 indicates [[Topic Notes\|Topic Notes]]*
 
-* [[📘 Running\|📘 Running]]: I'm a trail runner. Mountains are cool.
+* [[Notion Notes/Useful Notes on Notion\|Useful Notes on Notion]]: I'm a trail runner. Mountains are cool.
 * [[📘 Fastpacking\|📘 Fastpacking]]: It's like trail running, with an overnight gear set.
 * [[📘 MYOG\|📘 MYOG]]: I make a lot of my outdoor gear.
 * [[📘 Books\|📘 Books]]: I read a lot.
@@ -98,5 +99,32 @@ Here are some recent news articles I found interesting:
 ### Notes
 
 View all my [[Notes\|Notes]] - less refined articles and thoughts I've been working on lately.
+| File                                                                                                                                                  | Last Modified             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[index\|index]]                                                                                                                                   | 1:03 PM - April 28, 2025  |
+| [[Ajay-notes-home/Introduction\|Introduction]]                                                                                                     | 12:09 PM - April 28, 2025 |
+| [[Topics/This week in Current@28 Apr\|This week in Current@28 Apr]]                                                                                | 11:13 AM - April 28, 2025 |
+| [[Thesis work/Research On Credit Risk Evaluation of Commercial Bank through ML\|Research On Credit Risk Evaluation of Commercial Bank through ML]] | 6:24 PM - April 27, 2025  |
+| [[Topics/Monetary Policy\|Monetary Policy]]                                                                                                        | 3:47 PM - April 27, 2025  |
+| [[Daily-notes/2025-04-26\|2025-04-26]]                                                                                                             | 3:43 PM - April 27, 2025  |
+| [[Daily-notes/2025-04-27\|2025-04-27]]                                                                                                             | 3:42 PM - April 27, 2025  |
+| [[Topics/Climate Change\|Climate Change]]                                                                                                          | 9:33 PM - April 24, 2025  |
+| [[Notion Notes/Useful Notes on Notion\|Useful Notes on Notion]]                                                                                    | 6:47 PM - April 24, 2025  |
+| [[Daily-notes/2025-04-24\|2025-04-24]]                                                                                                             | 2:28 PM - April 24, 2025  |
+
+{ .block-language-dataview}
 
 </div></div>
+
+- [[index\|index]]
+- [[Ajay-notes-home/Introduction\|Introduction]]
+- [[Topics/This week in Current@28 Apr\|This week in Current@28 Apr]]
+- [[Thesis work/Research On Credit Risk Evaluation of Commercial Bank through ML\|Research On Credit Risk Evaluation of Commercial Bank through ML]]
+- [[Topics/Monetary Policy\|Monetary Policy]]
+- [[Daily-notes/2025-04-26\|2025-04-26]]
+- [[Daily-notes/2025-04-27\|2025-04-27]]
+- [[Topics/Climate Change\|Climate Change]]
+- [[Notion Notes/Useful Notes on Notion\|Useful Notes on Notion]]
+- [[Daily-notes/2025-04-24\|2025-04-24]]
+
+{ .block-language-dataview}
