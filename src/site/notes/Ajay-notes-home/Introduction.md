@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/ajay-notes-home/introduction/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-24T11:39:14.482+05:30","updated":"2025-04-24T12:04:04.344+05:30"}
+{"dg-home":false,"dg-publish":true,"permalink":"/ajay-notes-home/introduction/","dgPassFrontmatter":true,"created":"2025-04-24T11:39:14.482+05:30","updated":"2025-04-28T12:09:43.418+05:30"}
 ---
 
 # 🏠 Ajay Kumar — Home
