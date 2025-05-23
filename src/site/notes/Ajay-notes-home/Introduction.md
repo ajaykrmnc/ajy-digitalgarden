@@ -1,13 +1,8 @@
 ---
-{"dg-home":false,"dg-publish":true,"permalink":"/ajay-notes-home/introduction/","dgPassFrontmatter":true,"created":"2025-04-24T11:39:14.482+05:30","updated":"2025-04-28T12:09:43.418+05:30"}
+{"dg-publish":true,"permalink":"/ajay-notes-home/introduction/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-28T13:49:40.975+05:30","updated":"2025-04-30T11:52:17.039+05:30"}
 ---
 
-# 🏠 Ajay Kumar — Home
-
-Welcome to my personal knowledge vault! Here's a snapshot of my academic journey, professional experience, and tech enthusiasm.
-
----
-
+I am upcoming Software engineer at Arista Network at Pune India. My some of the past experiences includes..
 ## 🧑‍💼 Experience
 
 ### 🔹 Barclays, Manchester, UK (Jun 2024 – Aug 2024)
